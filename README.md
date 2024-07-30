@@ -17,3 +17,23 @@ This repository contains R scripts for analyzing and predicting trends in Spotif
     Regression Analysis:
         Regression modeling to explore relationships between song attributes (e.g., energy, danceability, acousticness) and popularity.
         Visualization of these relationships using scatter plots with fitted regression lines.
+Files:
+
+    spotify_top_music.csv: Dataset used for analysis.
+    spotify_analysis.R: R script containing the analysis and modeling code.
+
+How to Use:
+
+    Clone the repository to your local machine.
+    Install required R packages (tidyverse, caret).
+    Run spotify_analysis.R to reproduce the analysis and modeling steps.
+    View results in the generated plots and review model performance metrics.
+
+Requirements:
+
+    R (version 3.5 or higher)
+    R packages: tidyverse, caret
+
+Note:
+
+    Adjust file paths as needed if the dataset (spotify_top_music.csv) is located in a different directory.
