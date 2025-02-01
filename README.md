@@ -1,4 +1,4 @@
-![output1](https://github.com/user-attachments/assets/7974870e-0b71-4725-a6f1-ff841a843b5f)
+
 Spotify Top Music Analysis and Genre Prediction
 
 This repository contains R scripts for analyzing and predicting trends in Spotify's top music dataset. The analysis includes:
@@ -38,6 +38,7 @@ Requirements:
 Note:
 
     Adjust file paths as needed if the dataset (spotify_top_music.csv) is located in a different directory.
+![output1](https://github.com/user-attachments/assets/7974870e-0b71-4725-a6f1-ff841a843b5f)
 ![output2](https://github.com/user-attachments/assets/7e75749a-7672-42b8-bc0e-273744f5cedd)
 ![output3](https://github.com/user-attachments/assets/c3c7e064-af6c-4773-a439-a2e2a5d147bc)
 ![output4](https://github.com/user-attachments/assets/74f7044c-8d91-47c8-a71e-d098d87b9ecc)
